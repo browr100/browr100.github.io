@@ -1,0 +1,96 @@
+.box {
+width: 300px;
+height: 300px
+background-color: blue;
+transition: all 5s;
+color: white;
+font-size: 30px;
+font-family: Arial;
+padding: 10px;
+background: url(lair0.1.png);
+opacity: .4;
+position: absolute
+}
+
+.box:hover {
+background-color: lime;
+width: 300px;
+height; 300px
+}
+
+.box2 {
+width: 300px;
+height: 300px
+background-color: blue;
+transition: all 1s;
+color: white;
+font-size: 30px;
+font-family: Arial;
+padding: 10px;
+opacity: .4;
+}
+
+.box2:hover {
+background-color: lime;
+width: 300px;
+height; 300px
+}
+
+</> changer over time 
+
+.box4 {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    animation-name: pulse;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    
+}
+
+@keyframes pulse {
+    0% {
+        background-color: blue;
+    }
+    50% {
+        background-color: green;
+    }
+    100% {
+        background-color: blue;
+    }
+    
+}
+
+.clock {
+    width: 200px;
+    height: 200px
+    background-color: yellow;
+    border-radius: 100%;
+    position: relative;
+    transform: rotate(9deg);
+    animation-name: myclock;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+seconds {
+    width: 200px;
+    height: 4px;
+    background-color: black;
+    position: absolute;
+    top: 98px;
+    left:100px;
+    
+}
+
+@keyframes myclock {
+    from {
+        transform: rotate(00deg);
+        
+    }
+    
+    to {
+        transform: rotate(360deg);
+    }
+}

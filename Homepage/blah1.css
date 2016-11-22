@@ -1,0 +1,11 @@
+.block18{
+   display:block;
+   width: 546px;
+   height: 350px;
+   border: 25px #8E4A00 ridge;
+   background-color: black;
+   border-radius: 50%  50%  50%  50%  / 60%   60%   40%  40%;
+
+	opacity: 0.8
+  
+}
