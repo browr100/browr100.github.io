@@ -14,7 +14,7 @@ for (var i = 0; i < 50; i++ ) {
     counter++;
     console.log(counter); 
     $("body").append("<div class='block18'></div>");
-    $("body").append ("<img src= 'lair.png'></img>");
+    $("body").append ("<img src= 'hi.png'></img>");
 }
 
 
