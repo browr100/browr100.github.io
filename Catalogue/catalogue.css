@@ -1,4 +1,8 @@
 
+body {
+	background-color: gray;
+}
+
 
 .table1 {
     color: gray;
@@ -539,6 +543,7 @@ iframe{
 	height: 800px;
 	margin-left: 200px;
 	margin-top: -150px;
+	background-color: white;
 	
 }
 
@@ -558,6 +563,7 @@ iframe{
 	height: 800px;
 	margin-left: 200px;
 	margin-top: -150px;
+	background-color: white;
 	
 }
 
@@ -577,6 +583,7 @@ iframe{
 	height: 800px;
 	margin-left: 200px;
 	margin-top: -150px;
+	background-color: white;
 	
 }
 
@@ -596,6 +603,7 @@ iframe{
 	height: 800px;
 	margin-left: 200px;
 	margin-top: -150px;
+	background-color: white;
 }
 
 .comp5 {
@@ -614,6 +622,7 @@ iframe{
 	height: 800px;
 	margin-left: 200px;
 	margin-top: -150px;
+	background-color: white;
 	
 }
 
@@ -633,7 +642,7 @@ iframe{
 	height: 800px;
 	margin-left: 200px;
 	margin-top: -150px;
-	
+	background-color: white;
 }
 
 .line1 {
