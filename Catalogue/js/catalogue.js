@@ -2,6 +2,8 @@ $(".myCheckbox1").click(function() {
   $(".comp1").toggle();
 });
 
+
+
 $(".myCheckbox2").click(function() {
   $(".comp2").toggle();
 });

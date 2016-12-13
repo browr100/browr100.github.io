@@ -20,24 +20,13 @@
     font-size: 26px
     font-weight:bold;
     width: 70px;
-    height: 20px;
+    height: 60px;
     position: absolute;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+    transform: rotate(-05deg);
 }
 
-.table2 {
-	  border: 5px ridge gray;
-    color: white;
-    background-color: black;
-    opacity: 0.8;
-    font-size: 26px
-    font-weight:bold;
-    width: 70px;
-    height: 20px;
-    position: absolute;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-    position: absolute;
-}
+
 
 .table3 {
 	  border: 5px ridge gray;
@@ -47,10 +36,12 @@
     font-size: 26px
     font-weight:bold;
     width: 70px;
-    height: 20px;
+    height: 60px;
     position: absolute;
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
+    transform: rotate(05deg);
+    
 }
 
 .table4 {
@@ -61,10 +52,11 @@
     font-size: 26px
     font-weight:bold;
     width: 70px;
-    height: 20px;
+    height: 60px;
     position: absolute;
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
+    transform: rotate(20deg);
 }
 
 .table5 {
@@ -75,10 +67,11 @@
     font-size: 26px
     font-weight:bold;
     width: 70px;
-    height: 20px;
+    height: 60px;
     position: absolute;
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
+    transform: rotate(-10deg);
 }
 
 .table6 {
@@ -89,10 +82,11 @@
     font-size: 26px
     font-weight:bold;
     width: 70px;
-    height: 20px;
+    height: 60px;
     position: absolute;
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
+    transform: rotate(05deg);
 }
 .table7 {
 	  border: 5px ridge gray;
@@ -102,7 +96,7 @@
     font-size: 26px
     font-weight:bold;
     width: 70px;
-    height: 20px;
+    height: 60px;
     position: absolute;
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
@@ -164,6 +158,13 @@
 
 
 .block1 {
+	width: 1100px;
+	height: 700px;
+	margin-left: 200px;
+	margin-top: -150
+}
+
+iframe{
 	width: 1100px;
 	height: 700px;
 	border: 2px ridge #633606;
@@ -534,6 +535,10 @@
 	width: 100%;
 	height: 100%;
 	display: none;
+	width: 1100px;
+	height: 800px;
+	margin-left: 200px;
+	margin-top: -150px;
 	
 }
 
@@ -549,6 +554,10 @@
 	width: 100%;
 	height: 100%;
 	display: none;
+	width: 1100px;
+	height: 800px;
+	margin-left: 200px;
+	margin-top: -150px;
 	
 }
 
@@ -564,6 +573,10 @@
 	width: 100%;
 	height: 100%;
 	display: none;
+	width: 1100px;
+	height: 800px;
+	margin-left: 200px;
+	margin-top: -150px;
 	
 }
 
@@ -579,7 +592,10 @@
 	width: 100%;
 	height: 100%;
 	display: none;
-	
+	width: 1100px;
+	height: 800px;
+	margin-left: 200px;
+	margin-top: -150px;
 }
 
 .comp5 {
@@ -594,6 +610,10 @@
 	width: 100%;
 	height: 100%;
 	display: none;
+	width: 1100px;
+	height: 800px;
+	margin-left: 200px;
+	margin-top: -150px;
 	
 }
 
@@ -609,6 +629,10 @@
 	width: 100%;
 	height: 100%;
 	display: none;
+	width: 1100px;
+	height: 800px;
+	margin-left: 200px;
+	margin-top: -150px;
 	
 }
 
@@ -636,6 +660,4 @@
 	margin-left: 95px;
 
 }
-
-
 
