@@ -1,116 +1,25 @@
-
-
-.table1 {
-    color: gray;
-    font-size: 66px
+table {
+    border: 5px ridge gray;
+    color: white;
+    background-color: black;
+    opacity: 0.8;
+    font-size: 26px
     font-weight:bold;
-    width: 170px;
-    height: 20px;
+    width: 10px;
+    height: 299px;
+    position: absolute;
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-    position: fixed;
+    position: absolute;
     margin-bottom: -100px;
-	
-}
-
-.table2 {
-	  border: 5px ridge gray;
-    color: white;
-    background-color: black;
-    opacity: 0.8;
-    font-size: 26px
-    font-weight:bold;
-    width: 70px;
-    height: 20px;
-    position: absolute;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-}
-
-.table2 {
-	  border: 5px ridge gray;
-    color: white;
-    background-color: black;
-    opacity: 0.8;
-    font-size: 26px
-    font-weight:bold;
-    width: 70px;
-    height: 20px;
-    position: absolute;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-    position: absolute;
-}
-
-.table3 {
-	  border: 5px ridge gray;
-    color: white;
-    background-color: black;
-    opacity: 0.8;
-    font-size: 26px
-    font-weight:bold;
-    width: 70px;
-    height: 20px;
-    position: absolute;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-    position: absolute;
-}
-
-.table4 {
-	  border: 5px ridge gray;
-    color: white;
-    background-color: black;
-    opacity: 0.8;
-    font-size: 26px
-    font-weight:bold;
-    width: 70px;
-    height: 20px;
-    position: absolute;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-    position: absolute;
-}
-
-.table5 {
-	  border: 5px ridge gray;
-    color: white;
-    background-color: black;
-    opacity: 0.8;
-    font-size: 26px
-    font-weight:bold;
-    width: 70px;
-    height: 20px;
-    position: absolute;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-    position: absolute;
-}
-
-.table6 {
-	  border: 5px ridge gray;
-    color: white;
-    background-color: black;
-    opacity: 0.8;
-    font-size: 26px
-    font-weight:bold;
-    width: 70px;
-    height: 20px;
-    position: absolute;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-    position: absolute;
-}
-.table7 {
-	  border: 5px ridge gray;
-    color: white;
-    background-color: black;
-    opacity: 0.8;
-    font-size: 26px
-    font-weight:bold;
-    width: 70px;
-    height: 20px;
-    position: absolute;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
-    position: absolute;
+    
+    
+    
+    
 }
 
 .button1 { 
-    margin-left: 85px;
-    margin-top: -229;
+    margin-left: 65px;
+    margin-top: 63.5;
     opacity: 0.8;
     width:30px;
     
@@ -118,7 +27,7 @@
 }
 
 .button2 { 
-    margin-left: 85px;
+    margin-left: 65px;
     margin-top: 20;
     opacity: 0.8;
     width: 30;
@@ -127,7 +36,7 @@
 }
 
 .button3 { 
-    margin-left: 85px;
+    margin-left: 65px;
     margin-top: 20;
     opacity: 0.8;
     width: 30;
@@ -136,7 +45,7 @@
 }
 
 .button4 { 
-    margin-left: 85px;
+    margin-left: 65px;
     margin-top: 20;
     opacity: 0.8;
     width: 30;
@@ -145,7 +54,7 @@
 }
 
 .button5 { 
-    margin-left: 85px;
+    margin-left: 65px;
     margin-top: 20;
     opacity: 0.8;
     width: 30;
@@ -154,7 +63,7 @@
 }
 
 .button6 { 
-    margin-left: 85px;
+    margin-left: 65px;
     margin-top: 20;
     opacity: 0.8;
     width: 30;
@@ -417,7 +326,7 @@
 .myCheckbox1 input {
     position: absolute;
     margin-top: -776px;
-    margin-left: 120px;
+    margin-left: 105px;
     
    
 }
@@ -436,7 +345,7 @@
 .myCheckbox2 input {
     position: absolute;
     margin-top: -754px;
-    margin-left: 120px;
+    margin-left: 105px;
    
 }
 
@@ -454,7 +363,7 @@
 .myCheckbox3 input {
   position: absolute;
     margin-top: -735px;
-    margin-left: 120px;
+    margin-left: 105px;
 }
 
 .myCheckbox3 span {
@@ -471,7 +380,7 @@
 .myCheckbox4 input {
     position: absolute;
     margin-top: -715px;
-    margin-left: 120px;
+    margin-left: 105px;
 }
 
 .myCheckbox4 span {
@@ -488,7 +397,7 @@
 .myCheckbox5 input {
      position: absolute;
     margin-top: -695px;
-    margin-left: 120px;
+    margin-left: 105px;
 }
 
 .myCheckbox5 span {
@@ -505,7 +414,7 @@
 .myCheckbox6 input {
      position: absolute;
     margin-top: -675px;
-    margin-left: 120px;
+    margin-left: 105px;
 }
 
 .myCheckbox6 span {
@@ -610,31 +519,6 @@
 	height: 100%;
 	display: none;
 	
-}
-
-.line1 {
-	border: 2px solid yellow;
-	width: 1px;
-	height: 900px;
-	margin-top: -700px;
-}
-
-.line2 {
-	border: 2px solid yellow;
-	width: 1px;
-	height: 900px;
-	margin-top: -900px;
-	margin-left: 95px;
-
-}
-
-.line3 {
-	border: 2px solid yellow;
-	width: 1300px;
-	height: 1px;
-	margin-top: -1165px;
-	margin-left: 95px;
-
 }
 
 
