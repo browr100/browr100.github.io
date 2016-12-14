@@ -66,7 +66,9 @@ body {
     height: 120px;
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     margin-top: 200px;
+    margin-left:100px;
     transform: rotate(-90deg);
+
 
 	
 }
@@ -83,7 +85,8 @@ body {
     position: absolute;
     font-family: Futura,Trebuchet MS,Arial,sans-serif;
     transform: rotate(-05deg);
-    margin-top: 110px;
+    margin-top: -220px;
+    margin-left: 15px;
 
 }
 
@@ -102,7 +105,9 @@ body {
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
     transform: rotate(05deg);
-    margin-top: 110px;
+    margin-top: -215px;
+    margin-left: 15px;
+
     
 }
 
@@ -119,7 +124,9 @@ body {
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
     transform: rotate(20deg);
-    margin-top: 110px;
+    margin-top: -210px;
+    margin-left: 15px;
+
 }
 
 .table5 {
@@ -135,7 +142,9 @@ body {
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
     transform: rotate(-10deg);
-    margin-top: 110px;
+    margin-top: -205px;
+    margin-left: 15px;
+
 }
 
 .table6 {
@@ -151,7 +160,8 @@ body {
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
     transform: rotate(05deg);
-    margin-top: 110px;
+    margin-top: -200px;
+    margin-left: 15px;
 }
 .table7 {
 	  border: 5px ridge gray;
@@ -165,7 +175,10 @@ body {
     position: absolute;
     font-family: Futura,Trebuchet MS,Arial,sans-serif; 
     position: absolute;
-    margin-top: 110px;
+    margin-top: -195px;
+    transform: rotate(-15deg);
+    margin-left: 15px;
+
 }
 
 
@@ -658,18 +671,27 @@ iframe{
 .line1 {
 	border: 2px solid yellow;
 	width: 1px;
-	height: 900px;
-	margin-top: -700px;
+	height: 645px;
+	margin-top: -650px;
 }
 
 .line2 {
 	border: 2px solid yellow;
 	width: 1px;
-	height: 900px;
-	margin-top: -900px;
-	margin-left: 95px;
+	height: 780px;
+	margin-top: -650px;
+	margin-left: 107px;
 
 }
+
+.line4 {
+	border: 2px solid yellow;
+	width: 30px;
+	height: 10px;
+	margin-bottom:
+
+}
+
 
 .line3 {
 	border: 2px solid yellow;
